@@ -131,6 +131,8 @@ Melhorias que podem evoluir este projeto:
 - Balanceamento de carga com AWS Load Balancer
 
 ---
+## Arquitetura
+![Architecture](images/architecture.png)
 
 ## ‍💻 Autora
  Rayane Santana
