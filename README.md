@@ -1,3 +1,4 @@
+![CI/CD Pipeline](https://github.com/SantRhay/terraform-devops-infrastructure/actions/workflows/deploy.yml/badge.svg)
 # 🚀 Automação DevOps com Terraform, Docker e CI/CD
 
 ## 📖 Visão Geral
